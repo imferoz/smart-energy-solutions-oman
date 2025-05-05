@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Explore smart energy solutions in Oman with Alwejha Group. We specialize in solar, efficient power systems, and smart grid integration." />
+  <meta name="keywords" content="smart energy Oman, renewable energy, energy solutions Oman, smart grid Oman, solar energy" />
+  <meta name="robots" content="index, follow" />
+  <title>Smart Energy Solutions Oman | Alwejha Group</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>Smart Energy Solutions in Oman</h1>
+      <p>Innovative and Sustainable Power Solutions by Alwejha Group</p>
+    </div>
+  </header>
+
+  <section class="hero">
+    <img src="smart-energy-solutions-oman.webp" alt="Smart Energy Solutions Oman" class="hero-image" />
+  </section>
+
+  <section class="content container">
+    <h2>Leading the Smart Energy Revolution</h2>
+    <p>At Alwejha Group, we empower Oman with cutting-edge smart energy solutions. From solar energy systems to smart grid technology, we help reduce energy costs and improve sustainability.</p>
+
+    <h3>Our Smart Energy Services Include:</h3>
+    <ul>
+      <li>Advanced solar panel systems</li>
+      <li>Smart energy monitoring and control</li>
+      <li>Energy-efficient lighting and automation</li>
+      <li>Battery storage and load management</li>
+      <li>Customized energy audits and optimization</li>
+    </ul>
+
+    <p>With our experience in deploying innovative energy systems, we help industries, commercial buildings, and residential communities achieve energy independence.</p>
+  </section>
+
+  <section class="cta container">
+    <a href="https://www.alwejhagroup.com/contact" class="btn">Get a Free Consultation</a>
+  </section>
+
+  <footer class="footer container">
+    <nav class="footer-nav">
+      <a href="https://www.alwejhagroup.com/">Home</a> |
+      <a href="https://www.alwejhagroup.com/area-of-expertise">Area of Expertise</a> |
+      <a href="https://www.alwejhagroup.com/our-services">Our Services</a> |
+      <a href="https://www.alwejhagroup.com/contact">Contact</a>
+    </nav>
+    <div class="visit-btn">
+      <a href="https://www.alwejhagroup.com/" class="btn visit-site">Visit Our New Website</a>
+    </div>
+    <p>&copy; 2025 Alwejha Group. All rights reserved.</p>
+  </footer>
+</body>
+</html>
 
