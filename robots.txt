@@ -1,4 +1,7 @@
 User-agent: *
-Allow: /
+Allow: /services/
+Allow: /projects/
+Disallow: /cdn-cgi/
+Disallow: /tmp/
 
 Sitemap: https://smart-energy-solutions-oman.alwejhagroup.com/sitemap.xml
